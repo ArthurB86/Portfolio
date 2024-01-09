@@ -1,0 +1,29 @@
+[
+    {
+      "title": "Kasa",
+      "image": "Kasa.png",
+      "link": "https://github.com/ArthurB86/P6-Creez-une-application-web-de-location-immobiliere-avec-React",
+      "description": "Ceci est la description du projet 1.",
+      "category": "Projet d'étude",
+      "Logo1": "react.png",
+      "Logo2":"js.svg",
+      "Logo3":"sass.svg"
+    },
+    {
+      "title": "Mon Vieux Grimoire",
+      "image": "VieuxGrimoire.png",
+      "link": "https://github.com/ArthurB86/Projet7Openclassrooms",
+      "description": "Ceci est la description du projet 2.",
+      "category": "Projet d'étude",
+      "Logo1": "react.png",
+      "Logo2":"js.svg",
+      "Logo3":"nodejs.svg"
+    },
+    {
+      "title": "Autre",
+      "image": "Kasa.png",
+      "link": "https://exemple.com/projet3",
+      "description": "Ceci est la description du projet 3.",
+      "category": "Projet d'étude"
+    }
+  ]
