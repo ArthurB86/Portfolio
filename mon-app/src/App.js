@@ -60,6 +60,7 @@ function App() {
       <BrowserRouter>     
           <Navbar  handleChange={handleChange}/>
           <Routes>
+            <Route path="/" element={<Home />} />
             <Route path="/Home" element={<Home />} />
             <Route path="/Information" element={<Information />} />
           </Routes>
